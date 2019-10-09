@@ -1,5 +1,5 @@
 # cpp_20Questions
-## A simple '20 questions' style game written in C++
+## A '20 questions' style game written in C++
 
 ### Input/Output format for this program.
 
